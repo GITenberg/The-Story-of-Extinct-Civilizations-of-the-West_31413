@@ -1,0 +1,29 @@
+_repo: The-Story-of-Extinct-Civilizations-of-the-West_31413
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anderson, Robert E. (Robert Edward), M.A., F.A.S.
+    alias: Anderson, Robert Edward, M.A., F.A.S.
+    gutenberg_agent_id: '35210'
+    url: http://www.gutenberg.org/2009/agents/35210
+description: ''
+gutenberg_issued: '2010-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31413'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History, Ancient'
+- !lcsh 'Discoveries in geography'
+- !lcsh 'America -- Discovery and exploration'
+- !lcsh 'Indians -- Antiquities'
+- !lcsh 'Civilization, Ancient'
+- !lcc 'E011'
+title: The Story of Extinct Civilizations of the West
+url: http://www.gutenberg.org/ebooks/31413
